@@ -11,7 +11,7 @@ class UploadViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
     }
 
     @IBAction func btnUpload(_ sender: UIButton) {
